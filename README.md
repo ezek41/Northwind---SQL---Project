@@ -2,7 +2,7 @@
 Strategic Customer Analysis with SQL — Excel
 ## Strategic Customer Analysis
 
-*Check out the full breakdown and deep dive in my Medium article: [Strategic Customer Analysis with SQL & Northwind*]((https://medium.com/@ezek41/strategic-customer-analysis-with-sql-excel-northwind-6863c48e68b7?sharedUserId=ezek41))
+*Check out the full breakdown and deep dive in my Medium article: [[Strategic Customer Analysis with SQL & Northwind*]((https://medium.com/@ezek41/strategic-customer-analysis-with-sql-excel-northwind-6863c48e68b7?sharedUserId=ezek41))](https://medium.com/@ezek41/strategic-customer-analysis-with-sql-excel-northwind-6863c48e68b7?sharedUserId=ezek41)
 
 ---
 
